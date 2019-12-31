@@ -10,3 +10,5 @@ https://www.petrikainulainen.net/programming/spring-framework/spring-from-the-tr
 https://abhirampal.com/2016/04/15/spring-security-customising-method-level-security/
 
 org.springframework.security.access.AccessDeniedException: Access is denied
+
+Password Hashing, Salts, Peppers | Explained! : https://www.youtube.com/watch?v=--tnZMuoK3E
