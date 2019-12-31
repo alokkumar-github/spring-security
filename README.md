@@ -11,4 +11,4 @@ https://abhirampal.com/2016/04/15/spring-security-customising-method-level-secur
 
 org.springframework.security.access.AccessDeniedException: Access is denied
 
-Password Hashing, Salts, Peppers | Explained! : https://www.youtube.com/watch?v=--tnZMuoK3E
+Password Hashing, Salts, Peppers | Explained! : https://www.youtube.com/watch?v=--tnZMuoK3E   https://www.youtube.com/watch?v=f3uAsF3RaCg&list=PLqq-6Pq4lTTbEzejFKFRYfkLGYyOOwq58
