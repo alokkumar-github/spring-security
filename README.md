@@ -14,3 +14,8 @@ org.springframework.security.access.AccessDeniedException: Access is denied
 Password Hashing, Salts, Peppers | Explained! : https://www.youtube.com/watch?v=--tnZMuoK3E   https://www.youtube.com/watch?v=f3uAsF3RaCg&list=PLqq-6Pq4lTTbEzejFKFRYfkLGYyOOwq58
 
 aplication level security : https://www.youtube.com/watch?v=sm-8qfMWEV8&list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE
+
+https://dzone.com/articles/encryption-part-2-public-key-private-key-encryptio
+asymmetric encryption - Public Key Encryption or PKE 
+Encrypt Password with public key in angular/react and Decrypt the password with private key in spring boot
+symmetric encryption -same key use to encrypt or decrypt
